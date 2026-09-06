@@ -1,0 +1,4 @@
+
+*.amltmp
+*.amltmp*
+.ipynb_checkpoints/
